@@ -135,3 +135,4 @@ if __name__ == "__main__":
     visitors.save_to_csv("data_filtered.csv")
     print("💾 Отфильтрованные данные сохранены в data_filtered.csv")
 # # Updated: добавлено для лабораторной по Git
+# Feature A: новая функция
